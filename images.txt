@@ -1,5 +1,4 @@
 linuxserver/emby:latest
-0nlylty/dockercopilot:latest
 linuxserver/qbittorrent:14.3.9
 haishanh/yacd:latest
 dreamacro/clash:latest
